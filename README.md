@@ -2,11 +2,11 @@
 
 # 👋 Olá! Eu sou o PedroCordeiro-dev
 
-💻 **Desenvolvedor Python em formação** <br>
-🧠 **Lógica e resolução de problemas como base** <br>
-⚙️ **Algoritmos | Estruturas de dados** <br>
-🛠️ **Construindo projetos para evoluir na prática** <br>
-🚀 **Focado em crescimento contínuo**
+* 💻 **Desenvolvedor Python em formação**
+* 🧠 **Lógica e resolução de problemas como base**
+* ⚙️ **Algoritmos | Estruturas de dados**
+* 🛠️ **Construindo projetos para evoluir na prática**
+* 🚀 **Focado em crescimento contínuo**
 
 </div>
 
