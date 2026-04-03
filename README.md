@@ -43,9 +43,9 @@ Desenvolver habilidades sólidas em programação e construir projetos que demon
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroCordeiro-dev\&show_icons=true\&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCordeiro-dev\&layout=compact\&theme=dark)
 
 </div>
 
