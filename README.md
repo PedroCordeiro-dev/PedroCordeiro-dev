@@ -1,6 +1,5 @@
 # 👋 Olá! Eu sou o PedroCordeiro-dev
 
-<div align="center">
 
 * 💻 **Desenvolvedor Python em formação**
 * 🧠 **Lógica e resolução de problemas como base**
