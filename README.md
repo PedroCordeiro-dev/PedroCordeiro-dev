@@ -8,7 +8,6 @@
 * 🛠️ **Construindo projetos para evoluir na prática**
 * 🚀 **Focado em crescimento contínuo**
 
-</div>
 
 ---
 
