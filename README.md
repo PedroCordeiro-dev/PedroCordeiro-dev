@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou o PedroCordeiro-dev
-
 <div align="center">
 
-💻 **Desenvolvedor Python em formação**
-🧠 **Lógica e resolução de problemas como base**
-⚙️ **Algoritmos | Estruturas de dados**
-🛠️ **Construindo projetos para evoluir na prática**
+# 👋 Olá! Eu sou o PedroCordeiro-dev
+
+💻 **Desenvolvedor Python em formação** <br>
+🧠 **Lógica e resolução de problemas como base** <br>
+⚙️ **Algoritmos | Estruturas de dados** <br>
+🛠️ **Construindo projetos para evoluir na prática** <br>
 🚀 **Focado em crescimento contínuo**
 
 </div>
@@ -37,9 +37,3 @@
 ## 📈 Objetivo
 
 Desenvolver habilidades sólidas em programação e construir projetos que demonstrem evolução técnica, com foco em oportunidades no mercado.
-
----
-
-## 🚀 Em construção...
-
-> Aprender, aplicar, evoluir. Repetir.
