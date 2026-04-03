@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-333?style=for-the-badge\&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-333?style=for-the-badge\&logo=pycharm)
 
 </div>
 
@@ -36,18 +37,6 @@
 ## 📈 Objetivo
 
 Desenvolver habilidades sólidas em programação e construir projetos que demonstrem evolução técnica, com foco em oportunidades no mercado.
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroCordeiro-dev&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCordeiro-dev&layout=compact\&theme=dark)
-
-</div>
 
 ---
 
