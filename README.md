@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o PedroCordeiro-dev
 
-<!--
-**PedroCordeiro-dev/PedroCordeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+💻 **Desenvolvedor Python em formação**
+🧠 **Lógica e resolução de problemas como base**
+⚙️ **Algoritmos | Estruturas de dados**
+🛠️ **Construindo projetos para evoluir na prática**
+🚀 **Focado em crescimento contínuo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* 🧠 Lógica de programação
+* 🐍 Python (fundamentos + prática)
+* ⚙️ Estruturas de dados e algoritmos
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge\&logo=python)
+![Git](https://img.shields.io/badge/Git-333?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-333?style=for-the-badge\&logo=visualstudiocode)
+
+</div>
+
+---
+
+## 📈 Objetivo
+
+Desenvolver habilidades sólidas em programação e construir projetos que demonstrem evolução técnica, com foco em oportunidades no mercado.
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=dark)
+
+</div>
+
+---
+
+## 🚀 Em construção...
+
+> Aprender, aplicar, evoluir. Repetir.
