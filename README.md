@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Pedro Henrique
+# 👋 Olá! Eu sou o Pedro Cordeiro
 
 
 * 💻 **Desenvolvedor Python em formação**
